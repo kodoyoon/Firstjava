@@ -7,6 +7,8 @@ public class Circle {
   int y;
   Point c = new Point ();
   int r;
+  int triangle;
+  int draw;
 }
 
 
