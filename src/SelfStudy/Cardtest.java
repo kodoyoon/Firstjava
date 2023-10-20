@@ -1,4 +1,4 @@
-package Homework;
+package SelfStudy;
 
 public class Cardtest {
   public static void main(String[] args) {

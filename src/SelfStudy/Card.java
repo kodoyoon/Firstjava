@@ -1,4 +1,4 @@
-package Homework;
+package SelfStudy;
 
 public class Card {
   String kind;

@@ -1,4 +1,4 @@
-package Homework;
+package SelfStudy;
 
 public class TVCR {
   VCR vcr = new VCR();

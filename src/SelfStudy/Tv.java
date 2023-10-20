@@ -1,4 +1,4 @@
-package Homework;
+package SelfStudy;
 
 public class Tv {
   boolean power;

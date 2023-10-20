@@ -1,4 +1,4 @@
-package Homework;
+package SelfStudy;
 
 import java.awt.*;
 

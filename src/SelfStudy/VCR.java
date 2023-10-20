@@ -1,4 +1,4 @@
-package Homework;
+package SelfStudy;
 
 public class VCR {
   boolean power;
