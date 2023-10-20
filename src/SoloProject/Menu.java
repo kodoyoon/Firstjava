@@ -18,7 +18,26 @@ public class Menu {
     System.out.println("4. Cheeseburger |    W 6.9  | 포테이토 번과 비프패티, 치즈가 토핑된 치즈버거");
     System.out.println("5. Hamburger  |   W 5.4   | 비프패티를 기반으로 야채가 들어간 기본버거");
 
+    System.out.print("메뉴를 선택해주세요: ");
+    choice = scanner.nextInt();
 
+    if (choice == 1) {
+      System.out.println("ShackBurger를 선택하셨습니다.");
 
+    } else if (choice == 2) {
+      System.out.println("SmokeShack을 선택하셨습니다.");
+
+    } else if (choice == 3) {
+      System.out.println("Shroom Burger를 선택하셨습니다.");
+
+    } else if (choice == 4) {
+      System.out.println("Cheeseburger를 선택하셨습니다.");
+
+    } else if (choice == 5) {
+      System.out.println("Hamburger를 선택하셨습니다.");
+
+    }
   }
 }
+
+
