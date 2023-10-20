@@ -10,7 +10,7 @@ public class Purchase {
     System.out.println("위 메뉴를 장바구니에 추가하시겠습니까?");
     System.out.println("1. 확인     2. 취소");
 
-
+  int choice = scanner.nextInt();
 
     System.out.println("Hamburger 가 장바구니에 추가되었습니다.");
     System.out.println("SHAKESHACK BURGER 에 오신걸 환영합니다.");
