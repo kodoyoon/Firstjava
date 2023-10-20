@@ -10,6 +10,8 @@ public class Purchase {
     System.out.println("위 메뉴를 장바구니에 추가하시겠습니까?");
     System.out.println("1. 확인     2. 취소");
 
+
+
     System.out.println("Hamburger 가 장바구니에 추가되었습니다.");
     System.out.println("SHAKESHACK BURGER 에 오신걸 환영합니다.");
     System.out.println("아래 메뉴판을 보시고 메뉴를 골라 입력해주세요.");
@@ -23,5 +25,7 @@ public class Purchase {
     System.out.println("[ORDER MENU]");
     System.out.println("5.Order  | 장바구니를 확인 후 주문합니다.");
     System.out.println("6.Cancel | 진행중인 주문을 취소합니다.");
+
+
   }
 }
