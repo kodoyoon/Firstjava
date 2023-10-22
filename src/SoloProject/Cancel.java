@@ -1,4 +1,4 @@
 package SoloProject;
 
-public class name {
+public class Cancel {
 }

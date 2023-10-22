@@ -1,4 +1,4 @@
 package SoloProject;
 
-public class explain {
+public class Done {
 }
